@@ -56,7 +56,7 @@ All prices are used for reference. **Discounts in percentage are offered based o
 
 - Option 1 `$1,400` Monthly payment.
 </details>
-![test](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
+![1](![2](https://github.com/averyark/portfolio/blob/master/images/DiscordContact.PNG?raw=true))
 
 ---
 
