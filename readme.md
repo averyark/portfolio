@@ -49,7 +49,7 @@ Note: All prices listed are after discounts <sup>(Discluding the project difficu
 
 - Option 1 `$1,800` Monthly payment.
 
-All prices are used for reference. **Discounts in percentage are offered based on the difficulty. (Project difficulty defined discount percentage)**
+All prices are used for reference. **Discounts in percentage are offered based on the difficulty to ensure the price reflects the complexity of the project. (Complexity-defined Discount Percentage)**
 
 <details> 
     <summary> <b>
