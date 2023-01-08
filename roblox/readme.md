@@ -34,7 +34,6 @@ All prices are used for reference. **Discounts in percentage are offered based o
     Prices for Revisiting completed projects for Maintenance and Updates
     </summary> </b>
 
-<br><br/>
 **Small Update** 3 Days
 
 - Option 1 `$150` Full payment.
@@ -57,7 +56,7 @@ All prices are used for reference. **Discounts in percentage are offered based o
 
 - Option 1 `$1,400` Monthly payment.
 </details>
-![test](https://media.discordapp.net/attachments/440082815493865473/1061549801784758312/image.png)
+![test](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
 
 ---
 
