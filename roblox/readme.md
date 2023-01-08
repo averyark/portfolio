@@ -56,13 +56,13 @@ All prices are used for reference. **Discounts in percentage are offered based o
 
 - Option 1 `$1,400` Monthly payment.
 </details>
-![Discord Contact](https://github.com/averyark/portfolio/raw/master/images/DiscordContact.PNG)
 
 ---
 
 ## Contact
 
-- Discord `ark#9999` My Discord ID is `413204744828616714`. Make sure that is correct!
+- **Discord** `ark#9999` I only have one active Discord account `ark#9999` and My Discord ID is `413204744828616714`. Please make sure the ID is correct!
+  ![Discord Contact](https://github.com/averyark/portfolio/raw/master/images/DiscordContact.PNG)
 
 ## Note
 
