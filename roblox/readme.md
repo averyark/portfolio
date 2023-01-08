@@ -7,8 +7,8 @@ AFS (Astrax Framework System) is an **extremely** efficient framework that speed
 - **Debug Panel with Console Commands** This panel helps with debugging, it is great for debugging and pinpointing bugs.
   ![Debug Panel Demo](https://github.com/averyark/portfolio/raw/master/images/demodebugpanel.gif)
 
-- **Object Orientated Programming (OOP) Helper** A object helper that simplifies OOP and integrates the object classes with the debug panel and the framework.
-  ![Objects Helper Demo](https://github.com/averyark/portfolio/raw/master/images/demoobjecthelper.gif)
+- **Object Orientated Programming (OOP) Helper** A object helper that simplifies OOP and integrates the object classes with the debug panel and the framework. OOP will only be used when appropriate.
+  ![Objects Helper Demo](https://github.com/averyark/portfolio/raw/master/images/demoobjecthelper2.gif)
 
 ---
 
