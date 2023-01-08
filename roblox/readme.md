@@ -4,8 +4,11 @@
 
 AFS (Astrax Framework System) is an **extremely** efficient framework that speeds up development and decreases the probability of bugs. All of my projects will use this private framework cultivated by myself from all the experiences I gathered throughout my 7 years long lifetime as a Roblox Developer. This system is finely tuned for my coding style and practices to ensure coherent development.
 
-- **Debug Panel with Console Commands** This panel helps with debugging, which is great for debugging and pinpointing bugs.
+- **Debug Panel with Console Commands** This panel helps with debugging, it is great for debugging and pinpointing bugs.
   ![Debug Panel Demo](https://github.com/averyark/portfolio/raw/master/images/demodebugpanel.gif)
+
+- **Object Orientated Programming (OOP) Helper** A object helper that simplifies OOP and integrates the object classes with the debug panel and the framework.
+  ![Objects Helper Demo](https://github.com/averyark/portfolio/raw/master/images/demoobjecthelper.gif)
 
 ---
 
